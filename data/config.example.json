@@ -1,0 +1,9 @@
+{
+  "wifi_ssid": "",
+  "wifi_pass": "",
+  "device_name": "esp8266",
+  "ap_fallback": true,
+  "protect_web": true,
+  "web_user": "admin",
+  "web_pass": ""
+}
